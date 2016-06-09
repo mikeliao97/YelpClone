@@ -1,0 +1,29 @@
+{
+  "name": "yelp",
+  "version": "1.0.0",
+  "description": "yelp clone with React",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "idk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeliao97/YelpClone.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "mike liao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeliao97/YelpClone/issues"
+  },
+  "homepage": "https://github.com/mikeliao97/YelpClone#readme",
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "babel-preset-stage-0": "^6.5.0"
+  }
+}
